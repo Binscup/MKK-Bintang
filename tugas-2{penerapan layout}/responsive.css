@@ -1,0 +1,31 @@
+@media screen and (max-width : 768px){
+   
+    .content h1{
+        font-size: 80px;
+    }
+    .back-video{
+        width:100rem;
+    }
+    
+}
+@media screen and (max-width : 999px) {
+    nav{
+        flex-wrap: wrap;
+        
+    }
+    nav ul{
+        flex-direction: column;
+        width: 100%;
+    }
+    nav ul.hidden{
+        display: none;
+    }
+    .humburger span{
+    border-bottom: 4px solid #F9F9F9;
+    width: 2rem;
+    padding: 4px;
+    display: flex;
+    cursor: pointer;
+    }
+    
+}
