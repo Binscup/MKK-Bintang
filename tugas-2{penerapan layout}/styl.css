@@ -92,7 +92,7 @@ nav ul li a:hover{
     display: flex;
 }
 .overlap .container{
-    margin-left: 10rem;
+    margin-left: 4rem;
 }
 .card {
     display: flex;
@@ -175,7 +175,7 @@ nav ul li a:hover{
   }
   footer p{
     font-size: 15px;
-    padding: 20px;
+    padding: 20px;  
 
   }
   
