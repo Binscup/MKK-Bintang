@@ -46,7 +46,7 @@ nav ul li a{
     color: rgb(255, 255, 255);
 }
 nav ul li a:hover{
-    color: #85E70A;
+    color: #0a84e7;
     transition: 0.4s;
     font-weight: 600;
     border-bottom: 2px #ffff;
